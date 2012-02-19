@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SYN-ACK Wordpress TinyLetter Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-19 22:21+0100\n"
+"PO-Revision-Date: 2012-02-19 22:23+0100\n"
+"Last-Translator: Fredrik Broman <fredrik@syn-ack.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../synack-wpstagehq-widget.php:48
+msgid "Displays a StageHQ ticket form"
+msgstr "Visar ett biljettformulär för StageHQ"
+
+#: ../synack-wpstagehq-widget.php:52
+msgid "StageHQ"
+msgstr "StageHQ"
+
+#: ../synack-wpstagehq-widget.php:92
+msgid "Title"
+msgstr "Rubrik"
+
+#: ../synack-wpstagehq-widget.php:93
+msgid "Buy tickets now"
+msgstr "Köp biljetter nu"
+
+#: ../synack-wpstagehq-widget.php:97
+msgid "StageHQ account slug"
+msgstr "StageHQ kontoslug"
+
+#: ../synack-wpstagehq-widget.php:103
+msgid "StageHQ event ID"
+msgstr "StageHQ händelse-ID"
+
+#~ msgid "TinyLetter"
+#~ msgstr "TinyLetter"
+
+#~ msgid "Your email address"
+#~ msgstr "Din e-postadress"
+
+#~ msgid "foo@bar.com"
+#~ msgstr "foo@bar.com"
+
+#~ msgid "Subscribe"
+#~ msgstr "Prenumerera"
+
+#~ msgid "A TinyLetter email newsletter"
+#~ msgstr "Ett TinyLetter-nyhetsbrev"
+
+#~ msgid "Newsletter"
+#~ msgstr "Nyhetsbrev"
+
+#~ msgid "Optional text before the form"
+#~ msgstr "Valfri text före formuläret"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid ""
+#~ "You will find the URL to your newsletter <a href=\"https://tinyletter.com/"
+#~ "publicize/\" title=\"Visit this link to find your newsletter URL\">here</"
+#~ "a> after you have registered and logged in to TinyLetter."
+#~ msgstr ""
+#~ "Du hittar adressen till ditt nyhetsbrev <a href=\"https://tinyletter.com/"
+#~ "publicize/\" title=\"Öppna den här länken för att se adressen till ditt "
+#~ "nyhetsbrev\">här</a> när du har registrerat och loggat in på TinyLetter."
+
+#~ msgid "Show TinyLetter attribution"
+#~ msgstr "Visa länk till TinyLetter"
